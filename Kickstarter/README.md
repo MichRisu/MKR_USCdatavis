@@ -29,5 +29,5 @@ The following steps were taken to better observe the relationships between categ
 •	Created an additional dataset reviewing the outcome of a project compared with amount of the initial goal.
 
 
-# Please refer to Kickstart My Chart Excel and Kickstart My Chart Analysis for the completed project.
+*Please refer to Kickstart My Chart Excel and Kickstart My Chart Analysis for the completed project.*
 
